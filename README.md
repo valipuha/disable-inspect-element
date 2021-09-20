@@ -1,1 +1,1 @@
-Just put it on your website and try to do the keybinds to open inspect element
+Just put it on your website and try to do the keyboard shortcuts to open inspect element
